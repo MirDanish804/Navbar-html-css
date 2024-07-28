@@ -1,0 +1,26 @@
+.navbar{
+  margin: 0px;
+  padding: 0px;
+    display: flex;
+    height: 70px;
+    background-color: bisque;
+    align-items: center;
+}
+.nav-img{
+    width: 100px;
+    margin: 20px;
+}
+.nav-itmes{
+    display: flex;
+    text-decoration:none;
+    gap: 40px;
+    padding:280px;
+   font-size: 20px;
+  
+    
+}
+.li{
+    list-style: none;
+    text-decoration:none;
+    display: flex;
+}
